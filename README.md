@@ -12,7 +12,8 @@ redirect_from:
 
 * Kramdown table of contents
 {:toc .toc}
-#Geogebra Courseware
+
+# Geogebra Courseware
 
 Created 2017.02.01 by William Yu; Last modified: 2018.07.12-V1.0.5
 
@@ -22,7 +23,7 @@ Copyright ©2018 William Yu. All Rights Reserved.
 
 ----
 
-##Description
+## Description
 
 These are some courseware for math and physics edited with Geogebra which will be helpful for students.
 
