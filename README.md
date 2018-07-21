@@ -43,11 +43,11 @@ I have been graduated from high school for three years, while I still love mathe
 
 #### 椭圆性质之定点对称线与椭圆交点的连线斜率为定值
 
-![4]./imgs/4.png)
+![4](./imgs/4.png)
 
 #### 椭圆性质之椭圆切线与以长轴为直径的圆的交点到相应焦点的连线与椭圆切线垂直
 
-![5](/media/will/资料/10.Geogebra_相关/imgs/5.png)
+![5](./imgs/5.png)
 
 #### 椭圆性质之焦点弦性质
 
